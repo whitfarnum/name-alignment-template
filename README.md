@@ -34,10 +34,10 @@ taxonomies:
 #  enabled: false
 #
     - id: itis
-      enabled: true
+      enabled: false
       name: Integrated Taxonomic Information System
     - id: ncbi
-      enabled: true
+      enabled: false
       name: NCBI Taxonomy
     - id: discoverlife
       enabled: true
@@ -55,7 +55,7 @@ taxonomies:
       enabled: false
       name: GBIF Backbone Taxonomy
     - id: worms
-      enabled: true
+      enabled: false
       name: World Register of Marine Species
     - id: globi
       enabled: false
@@ -82,7 +82,7 @@ taxonomies:
       enabled: false
       name: World of Flora Online
     - id: wikidata
-      enabled: true
+      enabled: false
       name: Wikidata Taxon Items
 ---
 
