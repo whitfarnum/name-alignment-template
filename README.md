@@ -6,9 +6,6 @@ datasets:
     - url: names.csv
       enabled: true
       type: text/csv
-    - url: https://docs.google.com/spreadsheets/u/0/d/1d-4X2xFdf-PkhXRsRu63Wx00kJiZsrNyCM9QqG2rvPA/export?format=tsv
-      enabled: false
-      type: text/tab-separated-values
     - id: mdd
       enabled: false
       name: Mammal Diversity Database
@@ -48,15 +45,9 @@ taxonomies:
     - id: col
       enabled: true
       name: Catalogue of Life
-    - id: eol
-      enabled: false
-      name: Encyclopedia of Life Dynamic Hierarchy
     - id: gbif
       enabled: false
       name: GBIF Backbone Taxonomy
-    - id: worms
-      enabled: false
-      name: World Register of Marine Species
     - id: globi
       enabled: false
       name: GloBI Taxon Graph
@@ -81,9 +72,6 @@ taxonomies:
     - id: wfo
       enabled: false
       name: World of Flora Online
-    - id: wikidata
-      enabled: false
-      name: Wikidata Taxon Items
 ---
 
 # Name Alignment

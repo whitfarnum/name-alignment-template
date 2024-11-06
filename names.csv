@@ -1,104 +1,388 @@
 scientificName
-Agametis deleta
-Agriocnemis incisa
-Altica
-Ancylotropus
-Anoplius canifrons
-Antipha bifasciata
-Antipha cruciata
-Apinaspis myrmecoides
-Apochrysa evanida
-Apoderus biguttatus
-Apolecta
-Apotomorhinus
-Argopus angulicollis
-Aulacophora coffeae
-Aulacophora cornuta
-Auplopus
-Auplopus agitatus
-Auplopus blandus
-Auplopus flavopictus
-Auplopus honestus
-Auplopus morota
-Auplopus nitidiventris
-Berotha piepersi
-Brenthidae
-Caecilius macrops
-Calyoza
-Candeza ornata
-Carebara
-Catascopus violaceus
-Cerastipsocus subcostalis
-Chrysomelidae
-Chrysopa
-Chrysopidae
-Colaspoides cuprea
-Colaspoides malayana
-Colaspoides simillima
-Colpodes rufithorax
-Conagenia aegina
-Conagenia nasuta
-Conagenia williamsi
-Crematogaster
-Cyphononyx madraspatanus
-Dasypsocus solox
-Endomychidae
-Episyron leucophaeus
-Epyris
-Euclimacia flavocincta
-Fullborniella singaporensis
-Goniozus
-Gynacantha
-Habroteleia
-Hemipsocus roseus
-Hemipyxis flava
-Holepyris
-Hoplasoma ventralis
-Leptogenys peuqueti
-Leucopholis
-Libellulidae
-Lichenomima
-Litocerus
-Macronema fenestratum
-Macroteleia
-Meragenia clara
-Meragenia stulta
-Mimetispa simulatrix
-Minagenia
-Nothochrysa
-Nothochrysa aequalis
-Oecetinella hemerobioides
-Orthogonius acrogonus
-Orthoptera
-Orychodes
-Otops marmoratus
-Peripsocus reicherti
-Phanagenia bipennis
-Phanagenia hippolyte
-Phanagenia tincta
-Phasmatodea
-Phaulimia
-Pheidole aglae
-Pheidole aristotelis
-Phiedole longipes
-Philidris
-Polyarchis armata
-Polyarchis leviuscula
-Polyarchis nigropilosa
-Polyarchis orsylla
-Polyarchis proxima
-Pristocera
-Pseudocaecilius pictipennis
-Psococerastis bengalensis
-Rhabdepyris
-Rotastruma recava
-Scarabaeidae
-Schizaspidia brevifurcata
-Schizaspidia nasua
-Schizaspidia stilbula
-Strumigenys mitis
-Taeniostigma elongata
-Tetraponera pilosa
-Tineomorpha
-Xanthampulex pernix
-Xylotrupes gideon
+Aegotypus
+Aegotypus armatus
+Aegotypus trilobatus
+Aegus
+Aegus adelphus
+Aegus chelifer
+Aegus cicatricosus
+Aegus dilatatus
+Aegus elegantulus
+Aegus gestroi
+Aegus insipidus
+Aegus jansoni
+Aegus kandiensis
+Aegus laevicollis
+Aegus lunatus
+Aegus myrmidon
+Aegus newtoni
+Aegus ogivus
+Aegus parallelus
+Aegus philippinensis
+Aegus platyodon
+Aegus pygmaeus
+Aegus subbasalis
+Aesalus
+Aesalus scarabaeoides
+Apterodorcus
+Apterodorcus bacchus
+Apterodorcus spp.
+Cacostomus
+Cacostomus squamosus
+Cardanus
+Cardanus darlingtoni
+Ceratognathus
+Ceratognathus bitumulatus
+Ceratognathus gilesi
+Ceratognathus niger
+Ceratognathus ocularis
+Ceratognathus rufipennis
+Ceratognathus spp.
+Ceratognathus westwoodii
+Ceruchis
+Ceruchis chrysomelinus
+Ceruchus
+Ceruchus piceus
+Ceruchus punctatus
+Ceruchus striatus
+Chiasognathus
+Chiasognathus impubis
+Chiasognathus jousselinii
+Chiasognathus spp.
+Cladognathus
+Cladognathus arrowi
+Cladognathus girafa
+Cladognathus spp.
+Cyclommatus
+Cyclommatus canaliculatus
+Cyclommatus cupreonitens
+Cyclommatus faunicolor
+Cyclommatus freygessneri
+Cyclommatus imperator
+Cyclommatus kaupi
+Cyclommatus lunifer
+Cyclommatus metallifer
+Cyclommatus pulchellus
+Cyclommatus scutellaris
+Cyclommatus speciosus
+Cyclommatus tarandus
+Cyclommatus trifurcatus
+Cyclommatus zuberi
+Diphyllostoma
+Diphyllostoma fimbriata
+Diphyllostoma fimbriatum
+Diphyllostoma linsleyi
+Diphyllostoma nigricollis
+Diphyllostoma spp.
+Diphyllostomatidae
+Dorcus
+Dorcus astridae
+Dorcus brevis
+Dorcus gazella
+Dorcus hopei
+Dorcus musimon
+Dorcus novaezealandiae
+Dorcus parallelipipedus
+Dorcus parallelus
+Dorcus parryi
+Eucarteria
+Eucarteria floralis
+Eurytrachelus
+Eurytrachelus arfakianus
+Eurytrachelus carolinensis
+Eurytrachelus intermedius
+Eurytrachelus pectinicornis
+Eurytrachelus pilosipes
+Eurytrachelus prosti
+Eurytrachelus rubrofemoratus
+Eurytrachelus spp.
+Eurytrachelus ternatensis
+Figulus
+Figulus affinis
+Figulus aratus
+Figulus beccarii
+Figulus canaliculatus
+Figulus confusus
+Figulus ennavatus
+Figulus fissicollis
+Figulus foveicollis
+Figulus laevipennis
+Figulus lilliputanus
+Figulus manillarum
+Figulus nitidulus
+Figulus novae-britanniae
+Figulus papuanus
+Figulus regularis
+Figulus spinosus
+Figulus spp.
+Figulus striatus
+Figulus sublaevis
+Figulus sulcicollis
+Gnaphaloryx
+Gnaphaloryx dain
+Gnaphaloryx opacus
+Gnaphaloryx opcus
+Gnaphaloryx sculptipennis
+Gnaphaloryx spp.
+Gnaphaloryx squalidus
+Gnaphaloryx velutinus
+Hemisodorcus
+Hemisodorcus macleayi
+Hemisodorcus nepalensis
+Hemisodorcus striatipennis
+Hexarthrius
+Hexarthrius buquettii
+Hexarthrius davisoni
+Hexarthrius parryi
+Homoderus
+Homoderus mellyi
+Hoplogonus
+Hoplogonus somsoni
+Lamprima
+Lamprima adolphinae
+Lamprima aurata
+Lamprima cultridens
+Lamprima insularis
+Lamprima latereillei
+Lamprima latreillii
+Lamprima micardi
+Lamprima olivacea
+Lamprima rutilans
+Lamprima spp.
+Lamprima varians
+Leptinopterus
+Leptinopterus bicolor
+Leptinopterus femoratus
+Leptinopterus ibex
+Leptinopterus tibialis
+Leptinopterus v-nigrum
+Lissapterus
+Lissapterus grammicus
+Lissapterus howittanus
+Lissapterus montivagus
+Lissapterus notestinei
+Lissapterus spp.
+Lissapterus tetrops
+Lissotes
+Lissotes basilaris
+Lissotes convexus
+Lissotes cornutus
+Lissotes crenatus
+Lissotes curviconis
+Lissotes darlingtoni
+Lissotes furcicornis
+Lissotes globosus
+Lissotes kershawi
+Lissotes lacroixi
+Lissotes laticollis
+Lissotes launcestoni
+Lissotes macrocephalus
+Lissotes menalcas
+Lissotes obesus
+Lissotes obtusatus
+Lissotes ogivus
+Lissotes politus
+Lissotes reticulatus
+Lissotes rudis
+Lissotes spp.
+Lissotes subcastaneus
+Lissotes urus
+Lucanidae
+Lucanus
+Lucanus capreolus
+Lucanus cervus
+Lucanus dama
+Lucanus dybowski
+Lucanus dybowskyi
+Lucanus elaphus
+Lucanus formosanus 
+Lucanus fortunei
+Lucanus gamunus
+Lucanus hopei
+Lucanus ibericus
+Lucanus laminifer
+Lucanus lunifer
+Lucanus maculifemoratus
+Lucanus mazama
+Lucanus mearesii
+Lucanus parryi
+Lucanus spp.
+Lucanus syriacus
+Lucanus tetraodon
+Lucanus turcicus
+Lucanus villosus
+Lucanus westermanii
+Macrodorcus
+Macrodorcus rectus
+Macrodorcus spp.
+Mesotopus
+Mesotopus regius
+Mesotopus spp.
+Mesotopus tarandus
+Metallactulus
+Metallactulus parvulus
+Metopodontus
+Metopodontus bison
+Metopodontus blanchardi
+Metopodontus cinnamomeus
+Metopodontus crenulidens
+Metopodontus dubernardi
+Metopodontus foveatus
+Metopodontus savagei
+Metopodontus spp.
+Metopodontus umhangi
+Neolamprima
+Neolamprima adolphinae
+Neolamprima spp.
+Neolucanus
+Neolucanus castanopterus
+Neolucanus championi
+Neolucanus laticollis
+Neolucanus maculosus
+Neolucanus nitidus
+Neolucanus spp.
+Nicagini
+Nicagus
+Nicagus obscurus
+Nigidius
+Nigidius bonneuilli
+Nigidius bubalus
+Nigidius divergens
+Nigidius kinabaluensis
+Nigidius laevicollis
+Nigidius lichtensteini
+Nigidius oxyotus
+Nigidius passaliformis
+Nigidius spp.
+Nigidius taurus
+Nigidius welwitschii
+Odontolabini
+Odontolabis
+Odontolabis aeratus
+Odontolabis alces
+Odontolabis baladeva
+Odontolabis bellicosus
+Odontolabis brookeana
+Odontolabis carinatus
+Odontolabis chinensis
+Odontolabis cuvera
+Odontolabis dalmani
+Odontolabis delessertii
+Odontolabis gazella
+Odontolabis intermedia
+Odontolabis latipennis
+Odontolabis lowei
+Odontolabis platynotus
+Odontolabis siva
+Odontolabis sommeri
+Odontolabis spp.
+Odontolabis stevensi
+Odontolabis striatus
+Odontolabis wollastoni
+Phalacrognathus
+Phalacrognathus spp.
+Pholidotus
+Pholidotus humboldti
+Pholidotus spixi
+Platyceropsis
+Platyceropsis aeneus
+Platyceropsis agassii
+Platyceropsis keeni
+Platyceropsis latus
+Platyceropsis spp.
+Platycerus
+Platycerus aeneus
+Platycerus agassii
+Platycerus drepessus
+Platycerus keeni
+Platycerus laticollis
+Platycerus latus
+Platycerus marginalis
+Platycerus opacus
+Platycerus oregonensis
+Platycerus piceus
+Platycerus quercus
+Platycerus spp.
+Platycerus virescens
+Prismognathus
+Prismognathus subaeneus
+Prosopocoelus
+Prosopocoelus inclinatus
+Prosopocoilus
+Prosopocoilus antilopus
+Prosopocoilus bequaerti
+Prosopocoilus biplagiatus
+Prosopocoilus brujini
+Prosopocoilus cilipes
+Prosopocoilus confucius
+Prosopocoilus elegantulus
+Prosopocoilus eximius
+Prosopocoilus gracilis
+Prosopocoilus lafertei
+Prosopocoilus lateralis
+Prosopocoilus lorquinii
+Prosopocoilus natalensis
+Prosopocoilus occipitalis
+Prosopocoilus serricornis
+Prosopocoilus spp.
+Prosopocoilus tarsalis
+Prosopocoilus tragulus
+Prosopocoilus vittatus
+Psalidoremus
+Psalidoremus dissimilis
+Psalidoremus inclinatus
+Pseudolucanus
+Pseudolucanus barbarossa
+Pseudolucanus capreolus
+Pseudolucanus dama
+Pseudolucanus mazama
+Pseudolucanus placidus
+Pseudolucanus spp.
+Pycnosiphorus
+Pycnosiphorus caelatus
+Pycnosiphorus fasciatus
+Pycnosiphorus femoralis
+Pycnosiphorus lessonii
+Pycnosiphorus rubrovittatus rouleti
+Pycnosiphorus spp.
+Pycnosiphorus tuberculatus
+Rhaetulus
+Rhaetulus crenatus
+Rhaetulus spp.
+Rhyssonotini
+Ryssonotus
+Ryssonotus foveolatus
+Ryssonotus jugularis
+Ryssonotus nebulosus
+Ryssonotus politus
+Ryssonotus spp.
+Sclerostomus
+Sclerostomus truncatus
+Serrognathus
+Serrognathus affinis
+Serrognathus bucephalus
+Serrognathus cribriceps
+Serrognathus gypaetus
+Serrognathus platymelus
+Serrognathus reichei
+Serrognathus spp.
+Serrognathus titanus
+Serrognathus titanus platymeus
+Serrognathus tityus
+Serrognathus westermanni
+Sinodendron
+Sinodendron cylindricum
+Sinodendron rugosum
+Sphaenognathus
+Sphaenognathus garleppi
+Sphaenognathus nobilis
+Sphaenognathus prionoides
+Sphaenognathus pubescens
+Streptocerus
+Streptocerus speciosus
+Syndesinae
+Syndesini
+Syndesus
+Syndesus cornutus
+Systenocerus
+Systenocerus caraboides
